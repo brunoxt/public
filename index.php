@@ -1,3 +1,3 @@
 <?php phpinfo(); ?>
-teste3
+teste5
 
