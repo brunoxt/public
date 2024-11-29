@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/sudosueu/repositories/public/
+    - /bin/cp index.php $DEPLOYPATH
