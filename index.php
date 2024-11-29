@@ -1,3 +1,2 @@
 <?php phpinfo(); ?>
-teste
-213
+sdjkghdfjkghdfjkghdfjk
